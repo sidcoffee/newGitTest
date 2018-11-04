@@ -2,6 +2,7 @@
     <head>
         <title>My Coffee</title>
         <body>
+            <h1>This is a test 1</h1>
         <?php 
         
         $first  =   "The quick brown fox";
